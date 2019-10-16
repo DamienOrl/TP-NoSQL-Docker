@@ -1,15 +1,11 @@
-#wik-njs-303-skeleton
-
-Simple ExpressJS skeleton.
+# TP-NoSQL-Docker
 
 ## Install
 
-    git clone https://github.com/Tronix117/wik-njs-303-skeleton.git
+    git clone https://github.com/DamienOrl/TP-NoSQL-Docker
     cd wik-njs-303-skeleton
     npm install
 
 ## Usage
 
     npm start
-
-# TP-NoSQL-Docker
